@@ -13,5 +13,3 @@ rm -rf feeds/luci/applications/luci-app-passwall feeds/packages/net/haproxy feed
 svn co https://github.com/nantayo/my-pkg/trunk package/my-pkg
 svn co https://github.com/ophub/luci-app-amlogic/trunk package/amlogic
 
-src-git kenzo https://github.com/kenzok8/openwrt-packages
-src-git small https://github.com/kenzok8/small
