@@ -13,3 +13,4 @@ rm -rf feeds/luci/applications/luci-app-passwall feeds/packages/net/haproxy feed
 svn co https://github.com/nantayo/my-pkg/trunk package/my-pkg
 svn co https://github.com/ophub/luci-app-amlogic/trunk package/amlogic
 
+svn export https://github.com/vernesong/OpenClash/trunk/luci-app-openclash package/luci-app-openclash
